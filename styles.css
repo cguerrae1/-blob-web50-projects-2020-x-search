@@ -1,0 +1,59 @@
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+
+}
+
+.form-control {
+    border-radius: 50px;
+    
+}
+
+td {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.center {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.left {
+    display: block;
+    position: relative;
+    top: 0;
+    left: 0;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.google1 {
+    display: inline-block;
+    padding-right: 5px;
+    color: #FBBC05;
+}
+
+.google2 {
+    display: inline-block;
+    padding-right: 5px;
+    color: #ea4335;
+}
+
+.google3 {
+    display: inline-block;
+    padding-right: 5px;
+    color: #4285f4;
+}
